@@ -1,3 +1,8 @@
+DON'T USE THIS FORK.
+Use sergiodias25's main repo.
+This fork only exists so I could make a pull request.
+It will NOT be maintained.
+
 # Marvel Snap Player Stats
 ## What is it?
 ### A Python script that reads data from the game files stored in your device and compiles it into a nice webpage. 
